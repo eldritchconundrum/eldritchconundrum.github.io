@@ -1,0 +1,6 @@
+add to git:
+    git add index.html
+    git commit -m "woohooo index.html"
+
+send to github with:
+    git push -u origin master
