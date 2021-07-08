@@ -1,1 +1,1 @@
-puts "test 2"
+File.write("test.html", "test")
