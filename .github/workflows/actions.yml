@@ -1,7 +1,7 @@
 name: my-github-action-on-push
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
   do-stuff:
     runs-on: ubuntu-latest
